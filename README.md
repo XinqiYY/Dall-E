@@ -5,3 +5,4 @@
 ### vite create a react app with javascript
 
 ### tailwindcss
+https://tailwindcss.com/docs/guides/vite
