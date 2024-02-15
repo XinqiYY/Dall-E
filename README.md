@@ -6,3 +6,8 @@
 
 ### tailwindcss
 https://tailwindcss.com/docs/guides/vite
+
+
+## Server
+### `npm init -y`
+### `npm install cloudinary cors dotenv express mongoose nodemon openai`
